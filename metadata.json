@@ -1,0 +1,6 @@
+{
+  "name": "Zunga - Mercado Social de Usados em Angola",
+  "description": "Rede social angolana de compra e venda de artigos usados com modo de baixo consumo de dados, leilões, chat direto e reputação de vendedores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
